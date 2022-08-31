@@ -65,11 +65,11 @@
     />
   </label>
   <label>
-    Imagen de producto
+    URL de Imagen de producto
     <input
       type="text"
       bind:value={product[2]}
-      placeholder="Imagen de producto"
+      placeholder="Url de Imagen de producto"
     />
   </label>
   <label>
